@@ -1,4 +1,4 @@
-# Google Data Analytics Professional Certificate README
+# Google Data Analytics Professional Certificate
 
 ## Overview
 
