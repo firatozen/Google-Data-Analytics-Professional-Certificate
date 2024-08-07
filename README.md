@@ -100,7 +100,7 @@ Contributions are highly encouraged! If you've gone through the same courses or 
 
 ## Certificate
 
-You can view my certificate of completion "C:\Users\lenovo\OneDrive\Masaüstü\CERTIFICATE_LANDING_PAGE~KUL8YJQ9C72L.jpg".
+You can view my certificate of completion CERTIFICATE.jpg.
 
 ## Acknowledgements
 
