@@ -100,7 +100,9 @@ Contributions are highly encouraged! If you've gone through the same courses or 
 
 ## Certificate
 
-You can view my certificate of completion CERTIFICATE.jpg.
+You can view my certificate of completion [here](https://github.com/firatozen/Google-Data-Analytics-Professional-Certificate/blob/a7d71e5d9a67c499be2b885cb9330c78d3f20ec6/CERTIFICATE.jpg).
+
+![Certificate](CERTIFICATE.jpg)
 
 ## Acknowledgements
 
