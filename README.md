@@ -71,17 +71,6 @@ In addition to expert training and hands-on projects, you'll complete a case stu
 8. Google Data Analytics Capstone: Complete a Case Study
    - **Course 8** • 8 hours • 4.8 (13,180 ratings)
 
-## Contributions
-
-Contributions are highly encouraged! If you've gone through the same courses or have additional insights/resources to share, feel free to submit a pull request. Whether it's fixing a typo, adding a useful resource, or clarifying a concept, your contributions are valuable.
-
-To contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-feature`.
-3. Make and commit your changes: `git commit -m 'Add a new feature'`.
-4. Push to the branch: `git push origin feature/new-feature`.
-5. Open a pull request.
 
 ## Acknowledgements
 
